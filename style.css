@@ -27,8 +27,12 @@ body {
     justify-content: center;
     border-radius: 5px;
 }
+.exit {
 
-img{
+    height: 1rem;
+    width: 1rem;
+}
+.profile-pic{
     height: 10rem;
     width: 10rem;
     border-radius: 50%;
